@@ -15,10 +15,8 @@ while True:
 if numeros:
   promedio = sum(numeros) / len(numeros)
   resultado = promedio * 4
-  print("El promedio de los números ingresados multiplicado por 4 es:", resultado)
+  print(f"El resultado es: {resultado} pulsaciones por minuto:", )
 else:
   print("No se ingresaron números.")
   
-print(numeros)
-
-
+# print(numeros)
