@@ -1,4 +1,4 @@
-# frecuencia-cardiaca
+# Frecuencia-cardiaca
 
 Este proyecto trata sobre calcular tus pulsaciones durante un período de tiempo específico. 
 
